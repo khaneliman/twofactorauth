@@ -50,6 +50,14 @@ websites:
       tfa: Yes
       email: Yes
       doc: https://help.elderscrollsonline.com/app/answers/detail/a_id/8611
+      
+      - name: Electronic Arts
+      url: http://www.ea.com/
+      img: ea.png
+      tfa: Yes
+      email: Yes
+      sms: Yes
+      doc: http://help.ea.com/en/article/origin-login-verification-information/
 
     - name: Enjin
       url: http://www.enjin.com/
